@@ -108,3 +108,7 @@ crashlytics-build.properties
 # Created by .ignore support plugin (hsz.mobi)
 misc/
 data/evaluation_data
+
+# Banglh
+/storage
+/train
